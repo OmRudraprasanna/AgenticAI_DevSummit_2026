@@ -57,9 +57,9 @@ Use whatever helps you move fastest. Claude Code, GitHub Copilot, Cursor, Codex,
 
 ---
 
-## Scoring Criteria
+## MUST HAVES:
 
-Systems will be evaluated on the following:
+Systems must follow the following:
 
 **Does it actually work.** Run it with a real or realistic input. Does it complete the pipeline without manual intervention?
 
@@ -70,15 +70,6 @@ Systems will be evaluated on the following:
 **Is the output usable.** Would the output land in someone's inbox, tracker, or system in a state they could actually use? Or does it need cleanup before it's useful?
 
 **Code quality and explainability.** You must be able to explain every component of your system. If you cannot explain why a part exists, it should not be in the submission.
-
----
-
-## Submission
-
-Each team submits one repository link and one short demo. The demo must show the system running end to end on a real or realistic input, including at least one non-happy-path scenario.
-
-You must be able to answer questions about any part of your system during the demo. Judges will ask.
-
 ---
 
 *Additional rules may be appended before the event begins.*
